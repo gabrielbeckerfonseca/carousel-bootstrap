@@ -1,8 +1,5 @@
 {
   "dependencies": {
     "bootstrap-icons": "^1.11.1"
-  },
-  "scripts": {
-    "build": "next build"
   }
 }
